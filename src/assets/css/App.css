@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+body {
+    background-color: #f5f5f5;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.max-height {
+    height: 100vh;
+}
+
+.collapse,
+.collapsing {
+    overflow: auto;
+}
+
+.border {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
